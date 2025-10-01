@@ -1,0 +1,13 @@
+#
+# config.yaml
+# Configure barrysbitters ecosystem.
+#
+
+web:
+  url: "barrysbitters.com"
+  port: 22
+
+tempmon:
+  id: ["65dad445485f", "31cad445bbc6"]
+  name: ["room", "fermenter1"]
+  database: "/data/mike/barrys-bitters/temp_monitor/temperature.db"
